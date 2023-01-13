@@ -6,4 +6,6 @@ Allows registration of users with a survey of registered users. Data storage is 
 
 To use, replace the value of the variable "token" with the Telegram token you receive from @BotFather as shown below:
 
+```
 const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+```
