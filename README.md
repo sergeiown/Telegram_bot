@@ -1,8 +1,7 @@
 # Telegram_bot
 
-This bot uses node-telegram-bot-api ver.0.61.0.
-To install node-telegram-bot-api you have to use:
-`npm i node-telegram-bot-api`
+This bot uses node-telegram-bot-api ver.0.61.0  
+To install node-telegram-bot-api you have to use: `npm i`
 
 ---
 
