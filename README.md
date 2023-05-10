@@ -1,8 +1,7 @@
 # Telegram_bot
 
 This bot uses node-telegram-bot-api ver.0.61.0  
-
----
+##
 
 The simplest bot created for training purposes.
 
